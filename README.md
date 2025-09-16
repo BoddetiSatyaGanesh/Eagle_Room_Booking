@@ -10,7 +10,7 @@ Simple hotel booking website with content management system. Users can book room
 
 ```sh
 HTML
-CSS
+sidebar
 JAVASCRIPT
 PHP
 BOOTSTRAP 
@@ -50,3 +50,4 @@ Now register and login
 Email : Admin@gmail.com
 Password : xxxx
 ```
+
